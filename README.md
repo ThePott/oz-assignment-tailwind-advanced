@@ -1,12 +1,20 @@
-# React + Vite
+# 🚀 Assignment for Oz Bootcamp Advanced: Styling With Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="./src/assets/appImage.png" style="max-height: 400px; height: full; margin: 0 auto; display: block;" />
 
-Currently, two official plugins are available:
+## ✨ Main Feature
+This is an app to demonstrate
+1. Styling with TailwindCSS
+2. State management through Reducer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+In the project directory, you can run:
+```bash
+git clone https://github.com/ThePott/oz-assignment-tailwind-advanced
+cd oz-assignment-tailwind-advanced
+npm install
+```
+## ✅ Requirements
+* Node.js
+## 📜 License
+MIT
