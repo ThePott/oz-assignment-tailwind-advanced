@@ -3,9 +3,13 @@
 <img src="./src/assets/appImage.png" style="max-height: 400px; height: full; margin: 0 auto; display: block;" />
 
 ## ✨ Main Feature
-This is an app to demonstrate
-1. Styling with TailwindCSS
-2. State management through Reducer
+1. Click button to change count state
+2. According to count state, the emoji chnages
+
+## 🛠️ Tech Stack
+This app demonstrates:
+1. TailwindCSS
+2. React useReducer hook
 
 ## 📦 Installation
 In the project directory, you can run:
